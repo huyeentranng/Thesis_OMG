@@ -1,6 +1,4 @@
 # Thesis_OMG
-# Repository Contents
-
 This repository contains two Jupyter notebooks:
 
 1. **Model notebook** (`Thesis_model.ipynb`): contains the BTM topic modelling pipeline and the decision tree model, including feature construction, training, and evaluation.
